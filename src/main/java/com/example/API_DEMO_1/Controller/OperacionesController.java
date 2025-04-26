@@ -12,7 +12,7 @@ public class OperacionesController {
         //3.Agregar un saludo de bienvenida
         @RequestMapping("/saludo")
         public String saludo(){
-            return "Bienvenido a mi API DEMO";
+            return "Bienvenido a mi API DEMO1";
     }
 
         //4. Saludar recibiendo un parametro mediante la url
